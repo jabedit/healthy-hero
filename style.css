@@ -107,14 +107,40 @@ color: #828282;
 }
 #subscriober-section{
     display: flex;
-    margin: 0 6%;
+    margin: 5% 6%;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 20px;
     padding: 20px;
 }
 .subs-width{
     width: 33.3%;
+    text-align: center;
 }
 .subs-width h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #18191F;
+}
+.subs-width h6{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 0;
+    color: #18191F;
+}
+footer{
+    background: #0B0D17;
+    text-align: center;
+    color: white;
+    padding: 50px 0;
     
+}
+footer div{
+    padding: ;
+}
+footer h6{
+    font-size: 16px;
 }
